@@ -74,12 +74,14 @@ int main()
     
     cout  << "\nEnter Element: ";
     cin >> key;
+    // -----------------------------------------------
     // cout << "\nPosition: ";
 
     // cin >> position;
     // position = position -1;
 
     // int result = deletion(arr, size, position);
+    
     int result = deletion_element(arr, size, key);
 
     
