@@ -1,8 +1,7 @@
 /******************************************************************************
 
 Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby
 
 *******************************************************************************/
 #include <iostream>
