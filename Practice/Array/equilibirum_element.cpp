@@ -1,7 +1,7 @@
 /******************************************************************************
 
 Welcome to GDB Online.
-GDB online is an online compiler and debugger tool 
+GDB online is an online compiler and
 
 *******************************************************************************/
 #include <iostream>
