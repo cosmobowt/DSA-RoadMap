@@ -1,8 +1,7 @@
 /******************************************************************************
 
 Welcome to GDB Online.
-GDB online is an online compiler and
-
+GDB online is an online compiler 
 *******************************************************************************/
 #include <iostream>
 
