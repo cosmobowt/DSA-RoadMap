@@ -2,7 +2,7 @@
 
 Welcome to GDB Online.
 GDB online is an online compiler 
-*******************************************************************************/
+******************************************************************/
 #include <iostream>
 
 using namespace std;
