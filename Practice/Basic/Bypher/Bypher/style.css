@@ -1,0 +1,571 @@
+body{
+
+    font-family: 'Syne', sans-serif;
+
+    width: 100%;
+    scroll-behavior: smooth;
+   
+    background: rgb(12, 4, 46);
+}
+
+/* 
+************************** navbar *********************** */
+
+
+#brand{  
+
+font-family: 'Syne', sans-seriff;
+font-weight: 700;
+font-size: 28px;
+position: absolute;
+margin-left:12px ;
+margin-top: 14px;
+
+/* identical to box height */
+color: #FFFFFF;
+text-decoration: none ;
+    
+}
+
+
+.icon{ 
+
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+
+.nav-item{
+    
+    
+    position:relative;
+    margin-top: 14px;
+    margin-right: 2px;
+    padding-left: 0px;
+    padding: 2%;
+    
+    text-decoration: none;
+
+}
+
+.nav-item :hover{
+
+    
+    text-decoration: underline;
+
+    text-underline-position: below , 10px;
+   
+    color:#fee1e1;
+    transition:0.5s  ;
+
+}
+
+.nav-link{
+
+    
+   
+
+    font-family: 'Urbanist', sans-serif;
+    font-size:24px ;
+
+    font-weight:400;
+    color: rgb(255, 255, 255);
+}
+
+
+/* <!-------------------*************   We create unforgettable websites for you      *****************-------------> */
+   
+
+.slog-1{
+
+    color: #fee1e1;
+}
+
+#we-create{
+    font-size:60px;
+    margin-top: 12%; 
+    color: #FFFFFF;
+    text-align: left;
+    width: 880px;
+    margin-left: 120px;
+}
+
+#high-end{
+    
+    font-size: 28px;
+    color: #FFFFFF;
+    margin-left:120px;
+    margin-top: 20px;
+}
+
+.highlight{
+
+    position:absolute;
+    margin-left: 5%;
+    width: 6%;
+    margin-top: 10%;
+}
+
+
+#r34{
+
+    position: absolute;
+    margin-top: 5%;
+    margin-left:50%;
+    height: 100%;
+
+
+}
+
+.explore-work{
+
+    font-family:'Syne', sans-serif ;
+    position: absolute;
+    font-size: 24px;
+    margin-top: 5%;
+    margin-left: 62%;
+
+    /* ******color*** */
+    
+    background: rgba(255, 255, 255, 0.382);
+    backdrop-filter: blur(40px);
+    color: #000C24;
+    height: 15%;
+    width: 15%;
+    border-radius: 64px;
+    border: none;
+    transition: 0.3s;
+}
+
+.explore-work:hover{
+
+    
+    background: rgba(255, 255, 255, 0.621);
+    backdrop-filter: blur(40px);
+    color: #000C24;
+    height: 15%;
+    width: 15%;
+    border-radius: 64px;
+    border: none;
+    animation:normal;
+}
+
+.bg-1{
+  
+    position: absolute;
+    margin-left: 80%;
+    margin-top: -20%;
+   size: 10px;
+}
+
+.bg-2{
+    
+    position: absolute;
+    margin-top: 40%;
+}
+
+#scroll-down{
+
+    font-size: 28px;
+
+    font-family: 'Urbanist', sans-serif;
+    
+    position: absolute;
+    font-weight: 400;
+    margin-top: 22%;
+    margin-left: 45%;
+    color: #FFFFFF;
+   
+
+}
+/* #scroll-down:hover{
+
+    animation-delay: 0.2s;
+  
+    color: #ecefff;
+} */
+/* 
+
+
+*******************************************  section 2   **********************************************
+We are 
+         a creative 
+              Design Agency
+
+******************************************************************************************************* */
+
+
+.we-are-a{
+   
+    position:absolute;
+    color: #ffffff;
+    
+}
+
+.slog-3{
+
+    text-align: left;
+    margin-left: 20%;
+    color:
+    rgba(147, 151, 217, 1);
+
+}
+
+.slog-2{
+
+    margin-top: 90%;
+    margin-left: 10%;
+    text-align: left;
+}
+
+#we-are{
+
+    text-align: left;
+    font-size: 66px;
+    margin-top: 60%;
+    width: 70%;
+    margin-left: 120px;
+
+}
+
+
+#para-1{
+    position:absolute;
+    margin-top: 52%;
+    margin-left:16%;
+    font-size: 32px;
+    text-align:left;
+    width: 30%;
+    color: #FFFFFF;
+
+}
+
+
+#group-15{
+
+    height: 550px; ;
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 52%;
+}
+
+.contact-us{
+
+
+   
+    font-family:'Syne', sans-serif ;
+    position: absolute;
+    font-size: 24px;
+    margin-top: 58%;
+    margin-left: 75%;
+
+    /* ******color*** */
+    
+    background: rgba(255, 255, 255, 0.382);
+    backdrop-filter: blur(40px);
+    color: #ffffff;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: none;
+    transition: 0.3s;   
+}
+
+
+.contact-us:hover{
+
+    
+    animation: normal;
+    background: rgba(255, 255, 255, 0.621);
+    backdrop-filter: blur(40px);
+}
+
+#rec-44{
+
+    position: absolute;
+    margin-top: 75%;
+}
+
+#rec-50{
+        
+    position: absolute;
+    margin-top: 92%;
+
+}
+
+/* **************************** Featured Work ******************************** */
+
+
+#featured{
+     
+    font-size: 86px;
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 98%;
+    text-align: center;
+    margin-left: 30%;
+}
+
+#arrow{
+    position: absolute;
+    margin-top: 105%;
+    margin-left: 45%;
+}
+
+#str-1{
+
+    position: absolute;
+    margin-top: 95%;
+    margin-left: 25%;
+}
+
+#str-2{
+
+    position: absolute;
+    margin-top: 95%;
+    margin-left: 55%;
+}
+
+#str-3{
+
+    position: absolute;
+    margin-top: 105%;
+    margin-left: 65%;
+}
+
+/* ************************** rec-48 *************** */
+
+#rec-48{
+
+    position: absolute;
+    margin-top: 120%;
+    margin-left: 10%;
+    height: 60%;
+}
+
+#rec-49{
+
+    position: absolute;
+    margin-top: 115%;
+    margin-left: 65%;
+    height: 80%;
+}
+
+
+
+.goto-work{
+
+
+   
+    font-family:'Syne', sans-serif ;
+    position: absolute;
+    font-size: 24px;
+    margin-top: 125%;
+    margin-left: 80%;
+
+    /* ******color*** */
+    
+    background: rgba(255, 255, 255, 0.382);
+    backdrop-filter: blur(40px);
+    color:000C24;
+    width: 200px;
+    height: 100px;
+    border-radius: 50px;
+    border: none;
+    transition: 0.3s;   
+}
+
+.goto-work:hover{
+
+    
+    animation: normal;
+    background: rgba(255, 255, 255, 0.621);
+    backdrop-filter: blur(40px);
+}
+
+
+.see-other-works{
+
+    font-family:'Syne', sans-serif ;
+    position: absolute;
+    font-size: 24px;
+    margin-top: 135%;
+    margin-left: 75%;
+
+    /* ******color*** */
+    
+    background: rgba(255, 255, 255, 0.382);
+    backdrop-filter: blur(40px);
+    color:000C24;
+    width: 300px;
+    height: 100px;
+    border-radius: 50px;
+    border: none;
+    transition: 0.3s;  
+}
+
+.see-other-works:hover{
+    animation: normal;
+    background: rgba(255, 255, 255, 0.621);
+    backdrop-filter: blur(40px);
+}
+
+#obsi{
+
+    color: #FFFFFF;
+    position: absolute;
+    margin-top: 150%;
+    margin-left: 15%;
+    font-size:38px;
+}
+
+/*  **********************/
+
+#rec-54{
+
+    position: absolute;
+    margin-top: 180%;
+    margin-left: 40%;
+}
+
+#rec-52{
+
+    
+    position: absolute;
+    margin-top: 180%;
+    margin-left: 60%;
+}
+
+#lets-create{
+
+    font-size: 66px;
+    color:#FFFFFF;
+    position:absolute;
+    width: 40%;
+    margin-left: 120px;
+    margin-top: 185%;
+}
+
+.Start-a-project{
+    
+    font-family:'Syne', sans-serif ;
+    position: absolute;
+    font-size: 36px;
+    margin-top: 200%;
+    margin-left: -8%;
+
+    /* ******color*** */
+    
+    background: rgba(255, 255, 255, 0.382);
+    backdrop-filter: blur(40px);
+    color: #FFFFFF;
+    width: 600px;
+    height: 200px;
+    border-radius: 100px;
+    border: none;
+    transition: 0.3s;  
+    position: absolute;
+}
+
+.Start-a-project:hover{
+
+    
+    animation: normal;
+    background: rgba(255, 255, 255, 0.621);
+    backdrop-filter: blur(40px);
+
+}
+
+#contact-bottom{
+
+position: absolute;
+margin-top: 186%;
+margin-left: 80%;
+color: #FFFFFF;
+
+font-size: 54px;
+font-weight:400;
+font-family: 'Urbanist', sans-serif;
+
+}
+
+#email{
+
+position: absolute;
+margin-top: 196%;
+margin-left: 72%;
+color: #FFFFFF;
+
+font-size: 42px;
+font-weight:100;
+font-family: 'Urbanist', sans-serif;
+
+
+}
+
+#ph-no{
+    
+    
+position: absolute;
+margin-top: 202%;
+margin-left: 77%;
+color: #FFFFFF;
+text-align: right;
+font-size: 42px;
+font-weight:100;
+font-family: 'Urbanist', sans-serif;
+
+}
+
+#follow-us{
+
+position: absolute;
+margin-top: 212%;
+margin-left: 83%;
+color: #FFFFFF;
+
+font-size: 54px;
+font-weight:400;
+font-family: 'Urbanist', sans-serif;
+
+}
+
+#facebook{
+
+    position: absolute;
+    margin-top: 226%;
+    margin-left: 85%;
+    color: #FFFFFF;
+    font-size: 42px;
+    font-weight:100;
+    font-family: 'Urbanist', sans-serif;
+    
+    
+    }
+
+
+#instagram{
+
+        position: absolute;
+        margin-top: 220%;
+        margin-left: 85%;
+        color: #FFFFFF;
+        font-size: 42px;
+        font-weight:100;
+        font-family: 'Urbanist', sans-serif;
+        
+        
+        }
+
+#grp-11{
+    
+    position: absolute;
+    margin-top: 240%;
+    margin-left: 3%;
+    color: #FFFFFF;
+    font-size: 42px;
+    font-weight:100;
+    font-family: 'Urbanist', sans-serif;
+    height: 60px;
+}        
