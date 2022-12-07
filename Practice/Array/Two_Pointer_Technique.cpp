@@ -11,6 +11,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 using namespace std;
 
 int result(int arr[], int n, int val){
+    
     int i = 0;
     int j = n-1;
     
