@@ -28,7 +28,7 @@ int result(int arr[], int n, int val){
             i++;
         }
         
-        else{
+         else{
             j--;
         }
          
