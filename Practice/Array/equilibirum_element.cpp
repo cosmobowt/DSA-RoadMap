@@ -27,8 +27,7 @@ int equilibrium(int arr[], int n){
         }
         
         leftSum += arr[i];
-        
-        
+                
     }
 }
 
