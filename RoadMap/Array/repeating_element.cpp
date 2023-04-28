@@ -12,7 +12,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 using namespace std; 
   
 int findRepeatingElement(int arr[], int n){
-    for (int i = 0; i < n; i++){
+    for (int i = 0; i < n; i++){ 
         for (int j = i+1; j < n; j++){
             if (arr[i] == arr[j]){ 
                 return arr[i];
