@@ -17,7 +17,7 @@ int sortedInsert(int arr[], int size, int capacity, int key){
 
     arr[i+1] = key;
 
-    return (size + 1);
+    return (size + 1); 
 
 
 
