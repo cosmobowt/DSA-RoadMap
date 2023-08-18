@@ -8,7 +8,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 #include <iostream>      
   
 using namespace std; 
-  
+   
 int equilibrium(int arr[], int n){
      
     int leftSum = 0;
