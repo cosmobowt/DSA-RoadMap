@@ -11,7 +11,7 @@ using namespace std;
    
 int equilibrium(int arr[], int n){
      
-    int leftSum = 0;
+    int leftSum = 0; 
     int sum = 0;
     
     for (int i = 0; i < n; i++){
