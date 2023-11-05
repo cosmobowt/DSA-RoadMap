@@ -8,7 +8,7 @@ Write your code in this editor and press "Run" button to compi le and execu te i
              
  ******************************************************** ***********/          
                
-#include <bits/stdc++.h>        
+#include <bits/std c++.h>        
 using namespace std;             
                
 int findRepeatingElement(int arr[], int n){        
