@@ -19,7 +19,7 @@ int findRepeatingElement(int arr[], int n){
             }      
         }        
     }     
-       
+       v
     
     return 0;  
            
