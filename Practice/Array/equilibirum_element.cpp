@@ -10,7 +10,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 using namespace std;  
    
 int equilibrium(int arr[], int n){
-      
+       
     int leftSum = 0; 
     int sum = 0;
     
