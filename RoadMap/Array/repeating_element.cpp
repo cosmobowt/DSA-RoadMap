@@ -18,7 +18,7 @@ int findRepeatingElement(int arr[], int n){
                 return arr[i];     
             }      
         }        
-    }     
+    }     n
        v
     
     return 0;  
