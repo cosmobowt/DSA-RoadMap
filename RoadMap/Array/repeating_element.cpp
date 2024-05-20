@@ -20,7 +20,7 @@ int findRepeatingElement(int arr[], int n){
         }            
     }     n     
        v       
-      
+       
     return 0;    
              
          
